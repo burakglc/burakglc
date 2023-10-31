@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/99/62/11/1000_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/02/99/62/11/1000_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg)
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
