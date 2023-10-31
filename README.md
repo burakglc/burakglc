@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.linkedin.com%2Fcompany%2Fsuffatech&psig=AOvVaw2hLjDcQSxOOV5cS-hxT5ij&ust=1698863649323000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC0yLT2oIIDFQAAAAAdAAAAABAE)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/99/62/11/1000_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg)
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
