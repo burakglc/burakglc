@@ -1,4 +1,4 @@
-![MasterHead]([https://as2.ftcdn.net/v2/jpg/02/99/62/11/1000_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg](https://t4.ftcdn.net/jpg/02/99/62/11/360_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg))
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQG1pLM9WLdZdA/profile-displaybackgroundimage-shrink_200_800/0/1578404199055?e=2147483647&v=beta&t=6iMRC11u3QJEE0Y2MPkiUcYV7GnpKVeuGjK2lsImMeQ)
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
